@@ -1,0 +1,5 @@
+pyYaml==3.13
+peewee==3.6.4
+coloredlogs==10.0
+verboselogs==1.7
+python-binance==0.6.9

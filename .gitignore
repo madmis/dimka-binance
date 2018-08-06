@@ -1,0 +1,27 @@
+.idea
+*.py[cod]
+
+data/
+trade_log.log
+*.log
+config/keys*.txt
+config/ip-whitelist.txt
+config/*.private
+*.private
+Dockerfile
+docker-compose.yml
+test.py
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt

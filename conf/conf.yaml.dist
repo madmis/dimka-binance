@@ -1,0 +1,8 @@
+# Sqlite database file path.
+db_path: /var/www/data/test_app.sqlite3
+
+key: binance_api_key
+secret: binance_secret_key
+
+# Bot pair
+pair: ETHBTC
